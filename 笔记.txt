@@ -1,0 +1,5 @@
+这是一个笔记
+git上传：
+git add . 
+git commit -m "commit info"
+git push origin master
